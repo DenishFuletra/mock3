@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Denish Fuletra",
+      "age": "25",
+      "gender": "Female",
+      "country": "in",
+      "profession": "Student",
+      "id": 1
+    },
+    {
+      "name": "Denish Fuletra",
+      "age": "25",
+      "gender": "Female",
+      "country": "in",
+      "profession": "Student",
+      "id": 2
+    },
+    {
+      "name": "Denish Fuletra",
+      "age": "25",
+      "gender": "Female",
+      "country": "in",
+      "profession": "Student",
+      "id": 3
+    },
+    {
+      "name": "Denish Fuletra",
+      "age": "25",
+      "gender": "Female",
+      "country": "in",
+      "profession": "Student",
+      "id": 4
+    },
+    {
+      "name": "Denish Fuletra",
+      "age": "25",
+      "gender": "Female",
+      "country": "in",
+      "profession": "Student",
+      "id": 5
+    }
+  ]
+}
